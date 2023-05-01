@@ -1,4 +1,4 @@
-##GAN (last worked on MAY 2021): 
+## GAN (last worked on MAY 2021): 
 
 I crafted a synthetic clock dataset and trained a WGAN on it to generate synthetic clocks. During my experimentation, I attempted to change the time and style of a clock. 
 
